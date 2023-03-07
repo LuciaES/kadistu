@@ -1,3 +1,4 @@
+@media screen and (max-width: 481px){
 .u-section-1 {
   background-image: url("images/bg-purple.jpeg");
   background-position: 50% 50%;
@@ -1011,4 +1012,5 @@
   .u-section-6 .u-form-1 {
     width: 340px;
   }
+}
 }
