@@ -242,7 +242,7 @@
     min-height: 100px;
   }
 } .u-section-4 {
-  background-image: linear-gradient(white, rgba(184,83,193,0.96));
+  background-image: linear-gradient(rgba(184,83,193,0.96), white);
 }
 
 .u-section-4 .u-sheet-1 {
@@ -357,7 +357,7 @@
     min-height: 100px;
   }
 } .u-section-6 {
-  background-image: linear-gradient(white, rgba(184,83,193,0.96));
+  background-image: linear-gradient(rgba(184,83,193,0.96), white);
 }
 
 .u-section-6 .u-sheet-1 {
